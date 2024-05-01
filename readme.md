@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Estudiante de Ingeniería Multimedia en la Universidad de Alicante<br>Amante de la programación y la tecnología<br>Entusiasta de la colaboración y el aprendizaje continuo</p>
+<p align="left">Estudiante de Ingeniería Multimedia en la Universidad de Alicante<br>Amante de la programación y la tecnología</p>
 
 ###
 
