@@ -16,7 +16,7 @@
 
 </h3>
 
-<p>📚 I'm a passionate programmer with a focus on game development. My background in Multimedia Engineering from the University of Alicante has equipped me with a strong foundation in C# and C++ and expertise in Unity and Unreal Engine. I'm driven to create engaging and innovative games for both mobile and PC platforms.<br>🎯 Goals: <br>-   Continue to expand my knowledge of game development technologies and tools.<br>-   Contribute to the development of compelling and high-quality mobile and PC games.<br>-   Further refine my skills in game design and development pipelines.</p>
+<p>📚 I'm a passionate programmer with a focus on game development. My background in Multimedia Engineering from the University of Alicante has equipped me with a strong foundation in C# and C++ and expertise in Unity and Unreal Engine. I'm driven to create engaging and innovative games for both mobile and PC platforms.</p>
 
 <h3>
 
@@ -72,3 +72,4 @@
 
 
 ###
+
